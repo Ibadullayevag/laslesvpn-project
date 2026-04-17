@@ -103,6 +103,10 @@ header {
     height: 382.44px;
     left: 745px;
 }
+.main2{
+    margin-bottom: 30px;
+   
+}
 .group{
     width: 1152px;
     height: 176px;
@@ -132,4 +136,213 @@ border-left:2px solid rgb(0, 0, 0, 0.1);
 }
 .shoxruzbek img{
     padding-right: 10px;
+}
+
+
+
+
+.main3{
+    
+    display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.main3-img img{
+    width: 508.12px;
+    height: 414.71px;
+    left: 184.52px;
+    top: 960.38px;
+}
+.h1 h1{
+    font-size: 35px;
+    width: 384.41px;
+    height: 100px;
+    left: 862.12px;
+}
+.p{
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+.check i{
+color: #2FAB73;
+width: 20px;
+height: 20px;
+}
+.span{
+    width: 163px;
+    height: 30px;
+   margin: 25x;
+   color: #4F5665;
+}
+.main4{
+    text-align: center;
+    margin-top: 150px;
+}
+.main4 b{
+    font-size: 35px;
+}
+.p2{
+    color: #4F5665;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.free-standart-premium{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.free{
+    width: 330px;
+    height: 760px;
+    border: 2px solid #DDDDDD;
+    text-align: center;
+}
+.standart{
+    width: 330px;
+    height: 760px;
+    border: 2px solid #DDDDDD;
+    text-align: center;
+}
+.premium{
+    width: 330px;
+    height: 760px;
+    border: 2px solid #DDDDDD;
+ 
+   
+}
+.free img{
+    width: 144.9px;
+    height: 165.37px;
+}
+.standart img{
+    width: 144.9px;
+    height: 165.37px;
+}
+.premium img{
+    width: 144.9px;
+    height: 165.37px;
+    
+}
+.uenw{
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main5{
+    text-align: center;
+    margin-top: 150px;
+}
+.main5-b{
+    font-size: 35px;
+}
+.main5-span{
+margin-top: 30px;
+}
+.main5-span span{
+    font-size: 16px;
+    color: #4F5665;
+    
+}
+.xarita{
+    width: 1060px;
+    height: 537.77px;
+    margin-top: 150px;
+}
+.netflix{
+    width: 1,135.64px;
+    height: 208.32px;
+}
+.main6{
+    text-align: center;
+}
+.main6-b{
+    font-size: 35px;
+}
+.main6-span{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.main6-span span{
+    font-size: 16px;
+    color: #4F5665;
+
+}
+.main8{
+    width: 1,140px;
+    height: 233px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFFFFF;
+    
+}
+.main8-div1{
+    width: 410px;
+}
+.main8-b b{
+    font-size: 35px;
+}
+.main8-p p{
+    font-size: 16px;
+    color: #4F5665;
+    margin-top: 15px;
+}
+.main8-div2 input{
+    width: 250px;
+    background-color: #F53838;
+    color: white;
+    padding: 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
 }
