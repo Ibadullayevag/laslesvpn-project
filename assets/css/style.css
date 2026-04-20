@@ -178,7 +178,7 @@ height: 20px;
 .main4{
     text-align: center;
     margin-top: 150px;
-}
+} 
 .main4 b{
     font-size: 35px;
 }
@@ -227,6 +227,10 @@ height: 20px;
 }
 .uenw{
    
+}
+.main9{
+    display: flex;
+    justify-content: space-evenly;
 }
 
 
